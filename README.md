@@ -139,7 +139,7 @@ A classificação do ÍndAc demonstrou profunda desigualdade:
 └── requirements.txt          # Dependências (GeoPandas, NetworkX, Rasterio)
 
 ```
-Arthur Relke
+Arthur Esteves
 ---
 
 *Dados baseados no Censo IBGE 2022, Prefeitura de Cuiabá e ALOS PALSAR (JAXA).*
